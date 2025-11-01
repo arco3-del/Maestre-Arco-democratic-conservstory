@@ -1,0 +1,8 @@
+{
+  "name": "Maestre Arco Conservatory",
+  "description": "A revolutionary educational app using hybrid AI to democratize art education. Authored, architected, produced, and executed by Richard Felipe Urbina.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
